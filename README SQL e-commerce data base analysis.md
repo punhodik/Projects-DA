@@ -94,7 +94,7 @@ This project incorporates **Advanced SQL Techniques** to improve query performan
 
 ## :red_circle: Project Links:
 * **[Interactive Dashboard (Looker Studio)](https://lookerstudio.google.com/s/s9vRRdRYBDE)** — View full visualization and filters.
-* **[SQL Queries]([https://github.com/punhodik/SQL-User-Activity-Analysis/blob/main/SQL-e-commerce-data-base-analysis.sql])** — View the source code used for data transformation.
+* **[SQL Queries](https://github.com/punhodik/SQL-User-Activity-Analysis/blob/main/SQL-e-commerce-data-base-analysis.sql)** — View the source code used for data transformation.
 
 ## :red_circle: Tech Stack & Methodology:
 * **Storage:** Google BigQuery (Standard SQL).
