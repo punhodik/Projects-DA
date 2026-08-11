@@ -93,7 +93,7 @@ This project incorporates **Advanced SQL Techniques** to improve query performan
 :white_check_mark: Solution: Start advertising activities in November, as after December 24, investments in attracting customers become ineffective due to a natural decline in interest.
 
 ## :red_circle: Project Links:
-* **[Interactive Dashboard (Looker Studio)](https://lookerstudio.google.com/s/s9vRRdRYBDE)** — View full visualization and filters.
+* **[Interactive Dashboard (Looker Studio)](https://datastudio.google.com/reporting/aa214006-a5c5-496a-b726-0394cc3b5975)** — View full visualization and filters.
 * **[SQL Queries](https://github.com/punhodik/SQL-User-Activity-Analysis/blob/main/SQL-e-commerce-data-base-analysis.sql)** — View the source code used for data transformation.
 
 ## :red_circle: Tech Stack & Methodology:
